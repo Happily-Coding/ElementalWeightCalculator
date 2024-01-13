@@ -1,5 +1,5 @@
 # Elemental Weight Calculator
-<b>A simple colab notebook that uses python to calculate the amount of each element in x amount of a molecule. </b>
+<b>A colab notebook that calculates the mass of each atom in a certain quantity of a molecule using python</b>
 
 This is the kind of output you can expect:
 ![imagen](https://github.com/OnyxianSoul/ElementalWeightCalculator/assets/74385137/d2594588-b4cd-45b8-a3cf-02bbe63b483c)
